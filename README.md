@@ -95,7 +95,7 @@ Start with the latest version of NPM to avoid any errors:
 1. Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
 2. Clone the repo
    ```sh
-   git clone https://github.com/PawanJS_/forkify.git
+   git clone https://github.com/maneett/forkify.git
    ```
 3. Install NPM packages
    ```sh
